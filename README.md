@@ -33,7 +33,7 @@
 
 ## Hướng dẫn sử dụng
 
-1. **Cài đặt thư viện:**
+1. **Cài đặt thư viện:**3
     ```sh
     pip install -r requirements.txt
     ```
@@ -87,4 +87,4 @@
 ---
 
 **Tác giả:**  
-- Nguyễn Thanh Hải
+- Khuất Quang Thái
